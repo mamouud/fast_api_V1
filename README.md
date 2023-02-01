@@ -1,1 +1,1 @@
-#Fastapi prediction app 
+Fastapi prediction app 
