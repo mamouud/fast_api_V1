@@ -3,3 +3,6 @@ joblib
 pandas
 shap
 uvicorn
+lightgbm
+sklearn
+imblearn
