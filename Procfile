@@ -1,0 +1,1 @@
+web: uvicorn fast_api_mod_v1:app  --host=0.0.0.0 --port=${PORT:-5000}
